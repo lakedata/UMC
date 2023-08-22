@@ -1,5 +1,5 @@
 # CRUD API 
-> UMC-EWHA 3rd Server-Spring Mission
+> UMC-DONGDUK 4th Server-Spring Mission
 <br>
 
 ## 🛠 Tech Stack
