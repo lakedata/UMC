@@ -15,6 +15,7 @@
 |Week8|Client Intro||
 <br>
 Spring Boot Template
+
 - 고객 - Client서버에 요청
 - 키오스크 - RouteRestful API를 통해 요청 받음HTTP method, 주소
 - 점원 - ControllerPath variable, query string, body 처리json 형식으로 response 반환
